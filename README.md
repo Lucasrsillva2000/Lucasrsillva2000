@@ -10,8 +10,8 @@
 
  - 👨‍💻 More at [My Repository](https://github.com/Lucasrsillva2000?tab=repositories)
 
-
-
+<br><br>
+<br><br>
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
